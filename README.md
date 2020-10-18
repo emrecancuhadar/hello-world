@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Hello im Emrecan. Im studying CE in IZTECH.
